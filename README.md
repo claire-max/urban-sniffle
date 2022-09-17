@@ -1,5 +1,6 @@
 # Project 1: Good To Gas
-
+ Good to Gas helps traveler's make fuel savings easier and more
+ accessible for every one by using gas station prices near your current location to get the best deals.
 ## User Story 
 
 ```
@@ -8,19 +9,18 @@ I WANT to find gas stations within a certain distance of my home
 SO THAT I can go to the most affordable gas in my area
 ```
 
-
 ## Technologies Used
-HTML Javascript CSS 
+HTML Javascript CSS  Bulma 
 
 
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![alt text]
+![alt text](./assets/images/demo.png)
 
-## Project Link
-![alt text] https://docs.google.com/presentation/d/1tYT8yd4eWaebMWfNOVBrCISwGNxZhjR1obfE48FI84g/edit#slide=id.p
+## Project Presentation Link
+https://docs.google.com/presentation/d/1tYT8yd4eWaebMWfNOVBrCISwGNxZhjR1obfE48FI84g/edit#slide=id.p
 
 ## Deployed Link
 
