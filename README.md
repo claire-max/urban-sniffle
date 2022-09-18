@@ -6,7 +6,7 @@
 ```
 As a traveler 
 I WANT to find gas stations within a certain distance of my home
-SO THAT I can go to the most affordable gas in my area
+SO THAT I can get the most affordable gas in my area
 ```
 
 ## Technologies Used
