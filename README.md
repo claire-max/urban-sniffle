@@ -5,21 +5,13 @@
 
 ```
 As a traveler 
-I WANT to find gas stations within a certain distance of my home
+I WANT to find gas station prices within a certain distance of my home
 SO THAT I can get the most affordable gas in my area
-
-Given I am a traveler who wants to find gas station prices 
-WHEN I enter my location and click on the search button
-THEN I am presented with a list of gas station prices in my area.
-
-Given I am a traveler who views a list of gas stations 
-WHEN I click on one gas station
-THEN I am presented with the selected gas station 
 
 ```
 
 ## Technologies Used
-HTML CSS  Bulma 
+HTML  CSS  Javascript  Bulma  NREL API  Google Maps API
 
 
 ## Mock-Up
@@ -33,4 +25,8 @@ https://docs.google.com/presentation/d/1tYT8yd4eWaebMWfNOVBrCISwGNxZhjR1obfE48FI
 
 ## Deployed Link
 
+<<<<<<< HEAD
 https://claire-max.github.io/urban-sniffle/
+=======
+https://claire-max.github.io/urban-sniffle/
+>>>>>>> claire
